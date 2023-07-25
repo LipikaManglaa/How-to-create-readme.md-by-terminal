@@ -1,0 +1,21 @@
+{
+  "name": "readme.md",
+  "version": "1.0.0",
+  "description": "how to create readme by terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "how to create readme.md by terminal"
+  },
+  "keywords": [
+    "readme"
+  ],
+  "author": "Lipika Mangla",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.8"
+  }
+}
